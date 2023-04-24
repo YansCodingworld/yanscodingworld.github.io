@@ -22,6 +22,15 @@ body {
     font-size: 18px;
 }
 
+.about-you {
+    width: 80%;
+    max-width: 800px;
+    margin: 100px auto;
+    color: #ffffff;
+    text-align: left;
+    font-size: 20px;
+}
+
 .footer {
     margin-top: 100px;
     text-align: center;
