@@ -1,0 +1,21 @@
+body {
+	font-family: sans-serif;
+	background-image: url(../img/bg.jpg);
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer ul {
+    display: inline-flex;
+    list-style: none;
+}
+
+.footer ul li {
+    margin: 0 5px;
+}
+
+.navbar-toggler {
+    background-color: #ffffff;
+}
